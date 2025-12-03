@@ -2,6 +2,7 @@
 # 树结构设计 —— 邻接表
 
 yarn run:example database/collections/tree/adjacency-list
+ajout  des modif  pour  test 
 */
 import { Database } from '@nocobase/database';
 import { uid } from '@nocobase/utils';
